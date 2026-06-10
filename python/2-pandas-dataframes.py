@@ -10,7 +10,7 @@ import pandas as pd
 
 # 1. CRIANDO UM DATAFRAME NA MÃO (A partir de um Dicionário de Listas)
 dados_grupo = {
-    'Nome': ['Grazielle', 'Isabela', 'Luana', 'GiiBrenz'],
+    'Nome': ['Nicolas', 'Amora', 'Messi', 'Geovanna'],
     'Especialidade': ['Front-end', 'Back-end', 'Dados/IA', 'Full-stack'],
     'Horas_Logadas': [14, 16, 12, 18]
 }
